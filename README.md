@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+7# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -75,3 +75,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 #Vous pourriez apres lancé cette commande 
   export NODE_OPTIONS=--openssl-legacy-provider
   npm start
+
+  # L'application démarre après sur : http://localhost:3000
+  # ce port 3000 ne doit pas être utilisée par une autre ressource ici 
