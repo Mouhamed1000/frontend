@@ -69,3 +69,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # frontend
+
+#Si vous rencontrez des problemes avec npm start
+#Vérifiez votre version de react, la version de react utilisée est 18, 
+#Vous pourriez apres lancé cette commande 
+  export NODE_OPTIONS=--openssl-legacy-provider
+  npm start
